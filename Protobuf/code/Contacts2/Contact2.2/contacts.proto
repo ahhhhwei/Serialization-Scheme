@@ -9,7 +9,7 @@ message Address{
   string unit_address = 2;  // 单位地址
 }
 
-// 联系⼈
+// 联系人
 message PeopleInfo {
   string name = 1;          // 姓名          
   int32 age = 2;            // 年龄
